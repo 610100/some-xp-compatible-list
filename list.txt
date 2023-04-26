@@ -1,0 +1,8 @@
+https://github.com/Chuyu-Team/YY-Thunks
+https://github.com/MyTDT-Mysoft/DllCompat
+https://github.com/katahiromz/vista2xp
+https://github.com/zeroclear/xpext
+https://github.com/TheDeadFish/win7lib
+https://github.com/tumagonx/XomPie
+https://github.com/Blaukovitch/bcrypt-XP
+https://github.com/reactos/reactos
